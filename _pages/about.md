@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.sems.qmul.ac.uk/'>School of Engineering and Materials Science</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: rutile.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>School of Engineering and Materials Science</p>
@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Materials Design and Informatics Syndicate (MDIS)** is a research collective, working to accelerate develoment of new green energy materials. We are based at Queen Mary Univeristy of London in the School of Engineering and Materials Science.
+**Materials Design and Informatics Group (MDIG)** is a research collective, working to accelerate develoment of new green energy materials. We are based at Queen Mary Univeristy of London in the School of Engineering and Materials Science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We use a combination of data-driven methods (such as neural networks and Bayesian statistics) and quantum mechanics calculations to design new materials on computers and to help accelerate the exerpimental characterisation of materials. We work with other academics, national facilities and companies. 

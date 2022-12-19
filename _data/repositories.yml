@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - keeeto
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - WMD-group/MacroDensity
+  - WMD-group/SMACT
+  - keeeto/super_tomo_py
