@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /join-us/
-title: join-us
-description: Group positions
+permalink: /join/
+title: join
+description: Open group positions
 nav: true
 nav_order: 6
 ---
