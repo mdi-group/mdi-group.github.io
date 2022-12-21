@@ -7,7 +7,7 @@ subtitle: <a href='https://www.sems.qmul.ac.uk/'>School of Engineering and Mater
 profile:
   align: right
   image: rutile.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circle
   address: >
     <p>School of Engineering and Materials Science</p>
     <p>Queen Mary University of London</p>
