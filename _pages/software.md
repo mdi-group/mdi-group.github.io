@@ -89,3 +89,24 @@ _superres-tomo_ is a package of useful scripts and models for applying neural ne
 
 **Code:** [https://github.com/keeeto/super_tomo_py](https://github.com/keeeto/super_tomo_py)
 **Docs:** [https://superres-tomo.readthedocs.io/en/latest/about.html](https://superres-tomo.readthedocs.io/en/latest/about.html)
+
+## SkipAtom
+
+SkipAtom is an approach for creating distributed representations of atoms, for use in Machine Learning contexts. It is
+based on the Skip-gram model used widely in Natural Language Processing. SkipAtom is written by [Luis Antunes](https://github.com/lantunes) who is currently pursuing a PhD at the University of Reading.
+
+**Code** [https://github.com/lantunes/skipatom](https://github.com/lantunes/skipatom)
+**Docs** [https://github.com/lantunes/skipatom](https://github.com/lantunes/skipatom)
+
+SkipAtom can be installed with:
+```
+pip install skipatom
+```
+However, this will install a minimal implementation that can be used to work with existing SkipAtom embeddings only. To 
+train new embeddings, SkipAtom should be installed with:
+```
+pip install skipatom[training]
+```
+### SkipAtom in action
+
+* [Distributed Representations of Atoms and Materials for Machine Learning](https://www.nature.com/articles/s41524-022-00729-3)
