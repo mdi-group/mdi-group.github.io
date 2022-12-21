@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-We always welcome enquiries abou joining the group. We also sometimes have open positions.
+We always welcome enquiries about joining the group. We also sometimes have open positions.
 
 For enquiries email: `k [dot] butler [at] qmul [dot] ac [dot] uk`
 
