@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Links to our guthubs and some of the main repos we contribute to
+description: Links to our githubs and some of the main repos we contribute to
 nav: true
 nav_order: 3
 ---

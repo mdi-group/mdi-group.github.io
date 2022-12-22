@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Materials Design and Informatics Group (MDIG)** is a research collective, working to accelerate develoment of new green energy materials. We are based at Queen Mary Univeristy of London in the School of Engineering and Materials Science.
+**Materials Design and Informatics Group (MDIG)** is a research collective, working to accelerate develoment of new green energy materials. We are based at Queen Mary University of London in the School of Engineering and Materials Science.
 
-We use a combination of data-driven methods (such as deep learning and Bayesian statistics) and quantum mechanics calculations to design new materials on computers and to help accelerate the exerpimental characterisation of materials. We work with other academics, national facilities and companies. 
+We use a combination of data-driven methods (such as deep learning and Bayesian statistics) and quantum mechanics calculations to design new materials on computers and to help accelerate the experimental characterisation of materials. We work with other academics, national facilities and companies. 

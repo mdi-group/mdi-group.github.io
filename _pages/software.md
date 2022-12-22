@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-MDIG is involed in a number of open source software projects for the materials science 
+MDIG is involved in a number of open source software projects for the materials science 
 community. We believe in the power of open software to enrich and improve science. We
-try, wherever possible, to ensure that our computational work is accompinied by easy
+try, wherever possible, to ensure that our computational work is accompanied by easy
 to use software. This often requires some significant additional effort and at times
 we have definitely cursed the decision to make software open and accessible, but the 
 rewards have always been more than worth the effort. 
