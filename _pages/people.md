@@ -19,3 +19,7 @@ Keith serves as an associate editor of npj Computational Materials and on the ed
 board of Machine Learning Science and Technology. He is the secretary of the IOP 
 special interest group for Dielectrics and Electrostatics. Keith is an active developer
  of several open source materials design packages [SMACT](https://smact.readthedocs.io/en/latest/introduction.html), [SuperResTomo](https://superres-tomo.readthedocs.io/en/latest/about.html), [MacroDensity](https://github.com/WMD-group/MacroDensity) and a strong advocate of open science.
+
+# Masaki Hiratsuka
+
+Masaki is Associate Professor at Kogakuin University in Tokyo. He is spending a sabbatical with the MDI group, working on new machine learning forcefields for materials interfaces. For more information, read [Masaki's webpage](https://er-web.sc.kogakuin.ac.jp/Profiles/13/0001265/profile.html?lang=en).
