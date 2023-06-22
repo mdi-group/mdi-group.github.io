@@ -10,6 +10,12 @@ nav_order: 2
 MDIG is alwyas looking for ways to spread information and skills. Here are a collection 
 of various teaching resources that we have either created or contributed to.
 
+## Autumn School in Machine Learning for Atomistic Simulation 2023
+
+With colleagues from Warwick, Imperial, STFC and Southampton we are running a school to train atomistic simulation
+researchers in using the latest machine learning methods for their research. More details on the contents, 
+pre-requisites and timetables can be found [on the school webpage.](https://www.psdi.ac.uk/event/machine-learning-autumn-school-2023/) 
+
 ## Intro to Data Analysis and Machine Learning for Engineers eBook
 
 This is an eBook associated with the Data Analysis and Machine Learning section of the EMS506U course taught
