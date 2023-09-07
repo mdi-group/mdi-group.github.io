@@ -17,4 +17,7 @@ MDI group organises a seriers of _ad hoc_ sympoisa on *Data Driven Materials Des
 
 # Previous Events
 
-* 
+* Oct 21st 2022 - Taylor Sparks, Luis Antunes, Zhenzhu Li, Steven Bennett
+* Apr 21st 2023 - Volker Deringer, Xia Liang, Philipp Schienbein
+* Jan 6th 2023 - Yousung Jung, Yifan Wu, Chencheng Xiao, Anthony Onwuli
+
