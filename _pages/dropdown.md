@@ -6,8 +6,8 @@ nav_order: 6
 dropdown: true
 children: 
     - title: symposia
-      permalink: /sympoisa/
+      permalink: sub_menu/sympoisa/
     - title: divider
     - title: schools
-      permalink: /schools/
+      permalink: sub_menu/schools/
 ---
