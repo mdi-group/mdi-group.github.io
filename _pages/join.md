@@ -4,7 +4,7 @@ permalink: /join/
 title: join
 description: Open group positions
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 We always welcome enquiries about joining the group. We also sometimes have open positions.
