@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /software/
-title: software
+permalink: /codes/
+title: codes
 description: Software we contribute to
 nav: true
 nav_order: 1
