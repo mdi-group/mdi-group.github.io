@@ -23,3 +23,8 @@ special interest group for Dielectrics and Electrostatics. Keith is an active de
 # Masaki Hiratsuka
 
 Masaki is Associate Professor at Kogakuin University in Tokyo. He is spending a sabbatical with the MDI group, working on new machine learning forcefields for materials interfaces. For more information, read [Masaki's webpage](https://er-web.sc.kogakuin.ac.jp/Profiles/13/0001265/profile.html?lang=en).
+
+# Matthew Walker
+
+Matthew is a PhD student in the group at UCL. His project aims to use graph neural networks to predict optical and electronic properties of semiconductors from chemical composition. During his master's in materials modelling (also at UCL) he studied sustainable thermoelectric materials in David Scanlon's group, before a brief stint in the corporate world confirmed his suspicions of its cold cynicism and his desire to return to the academic world.
+When he isn't stuck behind a computer, he likes cooking, attempting a spectrum of exercise modalities, and learning new languages (currently Italian and Kotlin). [Matthew's webpage](https://mattheww98.github.io/)
