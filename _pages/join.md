@@ -13,4 +13,4 @@ For enquiries email: `k [dot] t [dot] butler [at] ucl [dot] ac [dot] uk`
 
 ## Current positions
 
-PhD Position Starting September 2024 - [Foundation Models for Materials Chemistry] - Funding for UK/settled Students only. [More information and apply.](https://www.findaphd.com/phds/project/a-3-year-phd-studentship-in-foundation-models-for-materials-chemistry/?p163465)
+PhD Position Starting September 2024 - [Machine Learing Enhanced Spectroscopy] - Funding for UK/settled Students only. [More information and apply.](https://www.findaphd.com/phds/project/machine-learning-enhanced-materials-spectroscopy/?p168582)
