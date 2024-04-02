@@ -13,10 +13,11 @@ MDI group organises a seriers of _ad hoc_ sympoisa on *Data Driven Materials Des
 
 #### Upcoming Events
 
-* Nov 16th 2023 - SMACT 10th Birthday Symposium - UCL
+* With our colleagues at TYC we are organising the **TYC 7th Energy Materials workshop: from data to discovery of new energy materials**, [information and registration](https://thomasyoungcentre.org/event/tyc-7th-energy-materials-workshop/).
 
 #### Previous Events
 
+* Nov 16th 2023 - SMACT 10th Birthday Symposium - Tian Xie, Yuqi Song, Daniel Davies
 * Oct 21st 2022 - Taylor Sparks, Luis Antunes, Zhenzhu Li, Steven Bennett
 * Apr 21st 2023 - Volker Deringer, Xia Liang, Philipp Schienbein
 * Jan 6th 2023 - Yousung Jung, Yifan Wu, Chencheng Xiao, Anthony Onwuli
