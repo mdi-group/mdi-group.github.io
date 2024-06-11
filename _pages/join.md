@@ -13,4 +13,4 @@ For enquiries email: `k [dot] t [dot] butler [at] ucl [dot] ac [dot] uk`
 
 ## Current positions
 
-No positions currently open - please stay tuned.
+[32 Month Research Fellow in Machine Learning for Materials Design](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=10122&nPostingTargetId=24107&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext)
