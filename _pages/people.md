@@ -4,14 +4,6 @@ permalink: /people/
 title: people
 description: Group members
 nav: true
-profile:
-  align: center
-  image: group-june-2024.jpg
-  image_circular: false # crops the image to make it circle
-  address: >
-    <p>Group Lunch June 2024</p>
-    <p>Bi Won, London</p>
-nav_order: 5
 ---
 
 # Keith Butler
