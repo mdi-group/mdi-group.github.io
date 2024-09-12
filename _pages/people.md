@@ -8,7 +8,7 @@ nav: true
 
 # Keith Butler
 
-Keith is Senior Lecturer in Green Energy Materials. Previously he worked as a staff
+Keith is Associate Professor in Computational Materials Chemistry. Previously he worked as a staff
 scientist at the Rutherford Appleton Laboratory, as a post-doctoral resaercher in the
 groups of Aron Walsh and John Harding, flipping cheestakes in 99 Miles to Philly and
 the man behind the burger vending machine in Dublin's famous Ilac Centre. 
