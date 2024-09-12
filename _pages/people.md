@@ -24,7 +24,7 @@ When he isn't stuck behind a computer, he likes cooking, attempting a spectrum o
 
 # Mueen Taj
 
-Mueen is a PhD student in the group at UCL.
+Mueen is a PhD student in the group at UCL. His project is based on developing machine learning approaches to enhance the analysis of neutron spectroscopy experiments, bridging the accuracy of density functional theory with the scalability of molecular dynamics for studying complex materials. Prior to his PhD, he studied materials chemistry at the University of Bradford and briefly ventured into the banking sector, before realising his passion for academic research leading to his big move to London. Outside of his work, Mueen is an avid gamer with a growing interest in metroidvania games, with Hollow Knight being a personal favourite.
 
 # Cyprien Bone
 
