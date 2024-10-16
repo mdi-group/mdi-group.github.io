@@ -17,6 +17,8 @@ Keith serves as an associate editor of npj Computational Materials and on the ed
 board of Machine Learning Science and Technology. Keith is an active developer
  of several open source materials design packages [SMACT](https://smact.readthedocs.io/en/latest/introduction.html), [SuperResTomo](https://superres-tomo.readthedocs.io/en/latest/about.html), [MacroDensity](https://github.com/WMD-group/MacroDensity) and a strong advocate of open science.
 
+# Bradley Martin
+
 # Matthew Walker
 
 Matthew is a PhD student in the group at UCL. His project aims to use graph neural networks to predict optical and electronic properties of semiconductors from chemical composition. During his master's in materials modelling (also at UCL) he studied sustainable thermoelectric materials in David Scanlon's group, before a brief stint in the corporate world confirmed his suspicions of its cold cynicism and his desire to return to the academic world.
