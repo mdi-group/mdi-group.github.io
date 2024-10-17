@@ -30,7 +30,7 @@ Mueen is a PhD student in the group at UCL. His project is based on developing m
 
 # Cyprien Bone
 
-Cyprien is a PhD student in the group at UCL.
+Cyprien is developing a large language model to explore a wide range of crystal structures for renewable energy applications. The goal is conditional structure generation, allowing researchers to design materials with specific properties or constraints in mind. This project builds on the work of [Luis Antunes' CrystaLLM](https://github.com/lantunes/CrystaLLM). After a year in industry at an agrochemical research park outside of London—where he realised lab work wasn’t his calling—his master’s thesis focused on studying Graph Neural Networks to predict opto-electronic properties in organic photovoltaics. This sparked his love for computers and renewable energy research, finding his way to help carbon reduction initiatives. Outside of work, Cyprien enjoys baking bread, exploring global cuisines, rock climbing and hiking up mountains (or hills as they call them in England).
 
 # Weihang Xie (David)
 
