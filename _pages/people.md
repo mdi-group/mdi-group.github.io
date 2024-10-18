@@ -19,6 +19,14 @@ board of Machine Learning Science and Technology. Keith is an active developer
 
 # Bradley Martin
 
+Bradley is a Research Assistant in the MDI group at UCL. 
+
+His research aims to develop physics-informed deep learning models to predict polarisation and shift currents of semiconductors and to aid in discovery of new ferroelectric and photovoltaic materials with good shift currents and high polarisation.
+
+Previously, during his masters in theoretical physics at Imperial College London, Bradley studied BRST quantisation and bosonic string theory in Prof. Dan Waldram's group. Bradley then transitioned towards research with more... tangible outputs, and did his PhD with Dr Jarvist Frost and Prof. Jenny Nelson at Imperial College London, developing new variational path integral methods for modelling charge-carrier mobility and optical absorption of polarons in polar semiconductors. Here he also co-developed the Julia package [PolaronMobility.jl](https://github.com/jarvist/PolaronMobility.jl).
+
+When not lost in his own mind, Bradley enjoys playing Dungeons & Dragons and boardgames, hiking up mountains (especially in Wales), losing at pub quizzes and trying (with questionable success) to learn French.
+
 # Matthew Walker
 
 Matthew is a PhD student in the group at UCL. His project aims to use graph neural networks to predict optical and electronic properties of semiconductors from chemical composition. During his master's in materials modelling (also at UCL) he studied sustainable thermoelectric materials in David Scanlon's group, before a brief stint in the corporate world confirmed his suspicions of its cold cynicism and his desire to return to the academic world.
