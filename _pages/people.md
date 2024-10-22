@@ -44,6 +44,10 @@ Cyprien is developing a large language model to explore a wide range of crystal 
 
 Weihang (David) is a visiting student from the National University of Singapore.
 
+# Junayd Ul Islam
+
+Junayd is an MSci student at UCL. His growing interest for materials science reached a zenith when studying the chemistry of photovoltaics. Junayd capitalised on the relationship he formed with the lecturer of that module, Professor Butler, to perform a research project in the topic. Junayd hopes to refine the similarity learning method used in material science by evaluating the possible vector spaces and distance matrices; this will inform a powerful machine learning method which can identify new crystal structures for use for PV technology. In his spare time, Junayd loves to read, write and perform poetry.
+
 # Previous Members
 
 * Masaki Hiratsuka (visitor from April 2023 - March 2024) - Assoicate Prof. Kogakuin University
