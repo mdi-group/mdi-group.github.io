@@ -48,6 +48,10 @@ Weihang (David) is a visiting student from the National University of Singapore.
 
 Junayd is an MSci student at UCL. His growing interest for materials science reached a zenith when studying the chemistry of photovoltaics. Junayd capitalised on the relationship he formed with the lecturer of that module, Professor Butler, to perform a research project in the topic. Junayd hopes to refine the similarity learning method used in material science by evaluating the possible vector spaces and distance matrices; this will inform a powerful machine learning method which can identify new crystal structures for use for PV technology. In his spare time, Junayd loves to read, write and perform poetry.
 
+# Jumanah Lazumi
+
+Jumanah is a MSci at UCL. Her project looks at rare, yet impactful Black Swan events and the likelihood of discovering a greatest of all time (GOAT) material with properties far better those found in the average material. The aim behind Jumanah's project is to examine a few materials properties and determine how likely it is to discover a GOAT material. These findings could motivate new research and inform where resources should be directed. In her spare time, Jumanah enjoys reading science fiction and baking all types of desserts.
+
 # Previous Members
 
 * Masaki Hiratsuka (visitor from April 2023 - March 2024) - Assoicate Prof. Kogakuin University
