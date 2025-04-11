@@ -10,6 +10,10 @@ nav_order: 2
 MDIG is alwyas looking for ways to spread information and skills. Here are a collection 
 of various teaching resources that we have either created or contributed to.
 
+## Easter School 2025: Chemical and Materials Machine Learning School (CaMMLS) 
+
+Sponsored by AIChemy Hub and PSDI we re-ran the ML school from 2025, this time expanded to a full week with extra sessions on generative models and unsupervised learning. The details of the school can be [found here](https://camml.ac.uk/). An eBook of the course contents is [also available](https://workshop.camml.ac.uk/intro.html). 
+
 ## Autumn School in Machine Learning for Atomistic Simulation 2023
 
 With colleagues from Warwick, Imperial, STFC and Southampton we are running a school to train atomistic simulation
