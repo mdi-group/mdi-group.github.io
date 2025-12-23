@@ -13,7 +13,7 @@ MDI group organises a seriers of _ad hoc_ sympoisa on *Data Driven Materials Des
 
 #### Upcoming Events
 
-* With our colleagues at TYC we are organising the **TYC 7th Energy Materials workshop: from data to discovery of new energy materials**, [information and registration](https://thomasyoungcentre.org/event/tyc-7th-energy-materials-workshop/).
+* The next symposium is on April 2nd 2026 at the IOP Kings Cross. We have a great line up featuring, Kim Jelfs, Sam Cooper, Robert Palgrave, Shijing Sun, Andrew McClusky and Dylan Owen. The theme is Machine Learning for Experimental Data. More info [here](https://iop.eventsair.com/ml2026/).
 
 #### Previous Events
 
@@ -22,6 +22,6 @@ MDI group organises a seriers of _ad hoc_ sympoisa on *Data Driven Materials Des
 * Apr 21st 2023 - Volker Deringer, Xia Liang, Philipp Schienbein
 * Jan 6th 2023 - Yousung Jung, Yifan Wu, Chencheng Xiao, Anthony Onwuli
 
-# Machine Learning Autumn School
+# Machine Learning Easter School
 
-With colleagues from STFC, Southampton, Warwick and Imperial college, we have set up an Autumn School in Machine Learning for Atomistic Simulations. More details on the school can be found [here](https://www.psdi.ac.uk/event/machine-learning-autumn-school-2023/).
+With colleagues from STFC, Southampton, Warwick and Imperial college, we have set up an Easter School in Machine Learning for Atomistic Simulations. The third iteration is in 2026. The school is supported by AIChemy and PSDI. More details on the school can be found [here](https://camml.ac.uk/).
