@@ -27,6 +27,10 @@ Previously, during his masters in theoretical physics at Imperial College London
 
 When not lost in his own mind, Bradley enjoys playing Dungeons & Dragons and boardgames, hiking up mountains (especially in Wales), losing at pub quizzes and trying (with questionable success) to learn French.
 
+# Prakriti Kayastha
+
+Prakriti is a postdoc at the MDI group. During her PhD at Northumbria University, her work focused on modelling phonons in chalcogenide perovskites. Her expertise lies in lattice dynamics and molecular dynamics, which are techniques used to understand the behaviour of atomic motions. Her broader interests lie in crystallography, information theory, and machine learning while also taking a keen interest in combining modelling work with experiments. Here at MDIG, her work will focus on modelling solid state materials to replace greenhouse gases used in refrigeration technologies. Outside of work, Prakriti enjoys a range of hobbies and is always finding new ones that will stick - currently these are cooking, learning new arts and crafts, and exploring the natural world (outside of computers!)
+
 # Matthew Walker
 
 Matthew is a PhD student in the group at UCL. His project aims to use graph neural networks to predict optical and electronic properties of semiconductors from chemical composition. During his master's in materials modelling (also at UCL) he studied sustainable thermoelectric materials in David Scanlon's group, before a brief stint in the corporate world confirmed his suspicions of its cold cynicism and his desire to return to the academic world.
