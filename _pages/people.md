@@ -13,7 +13,7 @@ scientist at the Rutherford Appleton Laboratory, as a post-doctoral resaercher i
 groups of Aron Walsh and John Harding, flipping cheestakes in 99 Miles to Philly and
 the man behind the burger vending machine in Dublin's famous Ilac Centre. 
 
-Keith serves as an associate editor of npj Computational Materials and on the editorial
+Keith serves as deputy editor of npj Computational Materials and on the editorial
 board of Machine Learning Science and Technology. Keith is an active developer
  of several open source materials design packages [SMACT](https://smact.readthedocs.io/en/latest/introduction.html), [SuperResTomo](https://superres-tomo.readthedocs.io/en/latest/about.html), [MacroDensity](https://github.com/WMD-group/MacroDensity) and a strong advocate of open science.
 
