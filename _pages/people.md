@@ -40,20 +40,21 @@ Mueen is a PhD student in the group at UCL. His project is based on developing m
 
 Cyprien is developing a large language model to explore a wide range of crystal structures for renewable energy applications. The goal is conditional structure generation, allowing researchers to design materials with specific properties or constraints in mind. This project builds on the work of [Luis Antunes' CrystaLLM](https://github.com/lantunes/CrystaLLM). After a year in industry at an agrochemical research park outside of London—where he realised lab work wasn’t his calling—his master’s thesis focused on studying Graph Neural Networks to predict opto-electronic properties in organic photovoltaics. This sparked his love for computers and renewable energy research, finding his way to help carbon reduction initiatives. Outside of work, Cyprien enjoys baking bread, exploring global cuisines, rock climbing and hiking up mountains (or hills as they call them in England).
 
-# Weihang Xie (David)
+# Joley Lin
 
-Weihang (David) is a visiting student from the National University of Singapore.
+Joley is a new PhD student in the group - she is digging into understanding how LLMs for materials science really work. She studied Chemistry at UCL and stayed for an MSc in Materials for Energy and Environment, where she accidentally enrolled in Prof Scott Woodley’s computational simulation course and realised she likes computational chemistry. Her master’s project explored structure prediction for CaCO₃ nanoclusters, and it sparked a strong curiosity about machine learning. On weekends she can be found in cafés across London training to be a coffee expert, watching football, and trying to chip away at a Steam library that only seems to grow.
 
-# Junayd Ul Islam
+# Yuxuan Tang
 
-Junayd is an MSci student at UCL. His growing interest for materials science reached a zenith when studying the chemistry of photovoltaics. Junayd capitalised on the relationship he formed with the lecturer of that module, Professor Butler, to perform a research project in the topic. Junayd hopes to refine the similarity learning method used in material science by evaluating the possible vector spaces and distance matrices; this will inform a powerful machine learning method which can identify new crystal structures for use for PV technology. In his spare time, Junayd loves to read, write and perform poetry.
+Yuxuan is a PhD student in the group at UCL-he is exploring interfaces in energy materials with machine-learning interatomic potentials(MLIPs).  Prior to his PhD journey, he studied a MSc in advanced materials science at UCL and dived into the reaction mechanism of 1,3-dipolar cycloadditions. The rigorous theories and reasoning behind computational chemistry fascinate him.  Perhaps delving into the microscopic world is the same as gazing at the stars-both are ways of understanding the truth of universe.  He tries to hit the gym everyday for health-If he somehow surviving the deadlines.
 
-# Jumanah Lazumi
-
-Jumanah is a MSci at UCL. Her project looks at rare, yet impactful Black Swan events and the likelihood of discovering a greatest of all time (GOAT) material with properties far better those found in the average material. The aim behind Jumanah's project is to examine a few materials properties and determine how likely it is to discover a GOAT material. These findings could motivate new research and inform where resources should be directed. In her spare time, Jumanah enjoys reading science fiction and baking all types of desserts.
 
 # Previous Members
 
 * Masaki Hiratsuka (visitor from April 2023 - March 2024) - Assoicate Prof. Kogakuin University
 * Irina Stanojevic (visitor in June 2024) - PhD candidate - University of Belgrade
 * Jaivin Gohil (summer student June - Aug 2024)
+* Jumanah Lazumi (Masters student 2024/25)
+* Junayd Ul Islam (Masters student 2024/25)
+* Issa Saddiq (Masters student 2024/25)
+* Weihang Wei (visitor 2024/25)
