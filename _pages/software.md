@@ -14,6 +14,29 @@ to use software. This often requires some significant additional effort and at t
 we have definitely cursed the decision to make software open and accessible, but the 
 rewards have always been more than worth the effort. 
 
+## MACE-Field
+
+MACE-Field extends the MACE interatomic potential to learn electric-field–dependent energy functionals for molecules and periodic materials. From a single scalar electric enthalpy, MACE-Field exposes dielectric response observables via automatic differentiation, ensuring derivative consistency by construction.
+
+**Code** [https://github.com/mdi-group/mace-field](https://github.com/mdi-group/mace-field)
+**Docs** [https://github.com/mdi-group/mace-field](https://github.com/mdi-group/mace-field)
+
+### MACE-Field in action
+
+* [General Learning of the Electric Response of Inorganic Materials](https://arxiv.org/abs/2508.17870)
+
+## CrystaLLM-π
+
+CrystaLLM-π is a Transformer-based system for generating crystalline structures as CIF files. It supports both unconditional generation and four conditional architectures that can generate structures based on target properties like bandgap, density, photovoltaic efficiency and XRD patterns.
+
+**Code** [https://github.com/C-Bone-UCL/CrystaLLM-pi](https://github.com/C-Bone-UCL/CrystaLLM-pi)
+**Docs** [https://github.com/C-Bone-UCL/CrystaLLM-pi](https://github.com/C-Bone-UCL/CrystaLLM-pi)
+**WebApp** [https://crystallm-pi.psdi.ac.uk/](https://crystallm-pi.psdi.ac.uk/)
+
+### CrystaLLM-π in action
+
+* [Discovery and recovery of crystalline materials with property-conditioned transformers](https://arxiv.org/abs/2511.21299)
+
 ## SMACT
 
 Semiconducting Materials by Analogy and Chemical Theory (SMACT) is a Python package
@@ -63,33 +86,6 @@ Some publications where MacroDensity has been used:
 * [Interplay of Orbital and Relativistic Effects in Bismuth Oxyhalides: BiOF, BiOCl, BiOBr, and BiOI](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6b00349)
 * [Band alignment of the hybrid halide perovskites CH<sub>3</sub>NH<sub>3</sub>PbCl<sub>3</sub>, CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub> and CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>](https://pubs.rsc.org/en/content/articlehtml/2015/mh/c4mh00174e)
 
-
-## UnlockNN
-
-_UnlockNN_ is a Python package which can be used to combine the expressive power of 
-graph neural networks with the principled uncertainty quantification of Gaussian 
-processes. UnlockNN was written by Alex Moriarty - currently at UCL - and uses
-TensorFlow and TensorFlow Probability for an efficient implementation.
-
-**Code:**[https://github.com/a-ws-m/unlockNN](https://github.com/a-ws-m/unlockNN)
-**Docs:**[https://unlocknn.readthedocs.io/en/latest/](https://unlocknn.readthedocs.io/en/latest/)
-
-```bash
-pip install unlocknn
-```
-#### UnclockNN in action
-
-Some publications where UnlockNN has been used:
-
-* [Entropy-based active learning of graph neural network surrogate models for materials properties](https://aip.scitation.org/doi/abs/10.1063/5.0065694)
-
-## SuperResTomo
-
-_superres-tomo_ is a package of useful scripts and models for applying neural networks for tomographic reconstruction of X-ray images. The package also includes models and scripts useful for the analysis of the images generated, allowing tasks such as semantic segmentation of very large images and removing noise from low dose images.
-
-**Code:** [https://github.com/keeeto/super_tomo_py](https://github.com/keeeto/super_tomo_py)
-**Docs:** [https://superres-tomo.readthedocs.io/en/latest/about.html](https://superres-tomo.readthedocs.io/en/latest/about.html)
-
 ## SkipAtom
 
 SkipAtom is an approach for creating distributed representations of atoms, for use in Machine Learning contexts. It is
@@ -110,3 +106,40 @@ pip install skipatom[training]
 ### SkipAtom in action
 
 * [Distributed Representations of Atoms and Materials for Machine Learning](https://www.nature.com/articles/s41524-022-00729-3)
+
+## CraTENet
+
+CraTENet is a multi-output deep neural network with multi-head self-attention for thermoelectric property prediction, based on the CrabNet architecture. 
+
+**Code** [https://github.com/lantunes/CraTENet](https://github.com/lantunes/CraTENet)
+**Docs** [https://github.com/lantunes/CraTENet](https://github.com/lantunes/CraTENet)
+
+### CraTENet in action
+
+* [Predicting thermoelectric transport properties from composition with attention-based deep learning](https://iopscience.iop.org/article/10.1088/2632-2153/acc4a9/meta)
+
+## UnlockNN
+
+_UnlockNN_ is a Python package which can be used to combine the expressive power of 
+graph neural networks with the principled uncertainty quantification of Gaussian 
+processes. UnlockNN was written by Alex Moriarty - currently at UCL - and uses
+TensorFlow and TensorFlow Probability for an efficient implementation.
+
+**Code:**[https://github.com/a-ws-m/unlockNN](https://github.com/a-ws-m/unlockNN)
+**Docs:**[https://unlocknn.readthedocs.io/en/latest/](https://unlocknn.readthedocs.io/en/latest/)
+
+```bash
+pip install unlocknn
+```
+### UnclockNN in action
+
+Some publications where UnlockNN has been used:
+
+* [Entropy-based active learning of graph neural network surrogate models for materials properties](https://aip.scitation.org/doi/abs/10.1063/5.0065694)
+## SuperResTomo
+
+_superres-tomo_ is a package of useful scripts and models for applying neural networks for tomographic reconstruction of X-ray images. The package also includes models and scripts useful for the analysis of the images generated, allowing tasks such as semantic segmentation of very large images and removing noise from low dose images.
+
+**Code:** [https://github.com/keeeto/super_tomo_py](https://github.com/keeeto/super_tomo_py)
+**Docs:** [https://superres-tomo.readthedocs.io/en/latest/about.html](https://superres-tomo.readthedocs.io/en/latest/about.html)
+
