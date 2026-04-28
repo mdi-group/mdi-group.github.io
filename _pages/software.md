@@ -18,8 +18,8 @@ rewards have always been more than worth the effort.
 
 MACE-Field extends the MACE interatomic potential to learn electric-field–dependent energy functionals for molecules and periodic materials. From a single scalar electric enthalpy, MACE-Field exposes dielectric response observables via automatic differentiation, ensuring derivative consistency by construction.
 
-* **Code** [https://github.com/mdi-group/mace-field](https://github.com/mdi-group/mace-field)
-* **Docs** [https://github.com/mdi-group/mace-field](https://github.com/mdi-group/mace-field)
+* **Code:** [https://github.com/mdi-group/mace-field](https://github.com/mdi-group/mace-field)
+* **Docs:** [https://github.com/mdi-group/mace-field](https://github.com/mdi-group/mace-field)
 
 #### MACE-Field in action
 
@@ -29,9 +29,9 @@ MACE-Field extends the MACE interatomic potential to learn electric-field–depe
 
 CrystaLLM-π is a Transformer-based system for generating crystalline structures as CIF files. It supports both unconditional generation and four conditional architectures that can generate structures based on target properties like bandgap, density, photovoltaic efficiency and XRD patterns.
 
-* **Code** [https://github.com/C-Bone-UCL/CrystaLLM-pi](https://github.com/C-Bone-UCL/CrystaLLM-pi)
-* **Docs** [https://github.com/C-Bone-UCL/CrystaLLM-pi](https://github.com/C-Bone-UCL/CrystaLLM-pi)
-* **WebApp** [https://crystallm-pi.psdi.ac.uk/](https://crystallm-pi.psdi.ac.uk/)
+* **Code:** [https://github.com/C-Bone-UCL/CrystaLLM-pi](https://github.com/C-Bone-UCL/CrystaLLM-pi)
+* **Docs:** [https://github.com/C-Bone-UCL/CrystaLLM-pi](https://github.com/C-Bone-UCL/CrystaLLM-pi)
+* **WebApp:** [https://crystallm-pi.psdi.ac.uk/](https://crystallm-pi.psdi.ac.uk/)
 
 #### CrystaLLM-π in action
 
@@ -46,8 +46,8 @@ functional materials. SMACT also has functionallity for deriving reasonable
 crystal structures for a given composition and can be used to interface with a range
 of modern machine learning techniques and atomistic modelling packages.
 
-* **Code:**[https://github.com/WMD-group/SMACT](https://github.com/WMD-group/SMACT) 
-* **Docs:**[https://smact.readthedocs.io/en/latest/](https://smact.readthedocs.io/en/latest/)
+* **Code:** [https://github.com/WMD-group/SMACT](https://github.com/WMD-group/SMACT) 
+* **Docs:** [https://smact.readthedocs.io/en/latest/](https://smact.readthedocs.io/en/latest/)
 
 ```bash
 pip install smact
@@ -70,8 +70,8 @@ primary functionality of MacroDensity is to obtain energy band alignment diagram
 extended solids, however it can also be used to explore and study potential maps for
 any arbitrary property.
 
-* **Code:**[https://github.com/WMD-group/MacroDensity](https://github.com/WMD-group/MacroDensity)
-* **Docs:**[https://github.com/WMD-group/MacroDensity](https://github.com/WMD-group/MacroDensity)
+* **Code:** [https://github.com/WMD-group/MacroDensity](https://github.com/WMD-group/MacroDensity)
+* **Docs:** [https://github.com/WMD-group/MacroDensity](https://github.com/WMD-group/MacroDensity)
 
 ```bash
 pip install git+git://github.com/WMD-group/MacroDensity.git
@@ -93,8 +93,8 @@ Some publications where MacroDensity has been used:
 SkipAtom is an approach for creating distributed representations of atoms, for use in Machine Learning contexts. It is
 based on the Skip-gram model used widely in Natural Language Processing. SkipAtom is written by [Luis Antunes](https://github.com/lantunes) who is currently pursuing a PhD at the University of Reading.
 
-* **Code** [https://github.com/lantunes/skipatom](https://github.com/lantunes/skipatom)
-* **Docs** [https://github.com/lantunes/skipatom](https://github.com/lantunes/skipatom)
+* **Code:** [https://github.com/lantunes/skipatom](https://github.com/lantunes/skipatom)
+* **Docs:** [https://github.com/lantunes/skipatom](https://github.com/lantunes/skipatom)
 
 SkipAtom can be installed with:
 
@@ -118,8 +118,8 @@ pip install skipatom[training]
 
 CraTENet is a multi-output deep neural network with multi-head self-attention for thermoelectric property prediction, based on the CrabNet architecture. 
 
-* **Code** [https://github.com/lantunes/CraTENet](https://github.com/lantunes/CraTENet)
-* **Docs** [https://github.com/lantunes/CraTENet](https://github.com/lantunes/CraTENet)
+* **Code:** [https://github.com/lantunes/CraTENet](https://github.com/lantunes/CraTENet)
+* **Docs:** [https://github.com/lantunes/CraTENet](https://github.com/lantunes/CraTENet)
 
 #### CraTENet in action
 
@@ -133,8 +133,8 @@ graph neural networks with the principled uncertainty quantification of Gaussian
 processes. UnlockNN was written by Alex Moriarty - currently at UCL - and uses
 TensorFlow and TensorFlow Probability for an efficient implementation.
 
-* **Code:**[https://github.com/a-ws-m/unlockNN](https://github.com/a-ws-m/unlockNN)
-* **Docs:**[https://unlocknn.readthedocs.io/en/latest/](https://unlocknn.readthedocs.io/en/latest/)
+* **Code:** [https://github.com/a-ws-m/unlockNN](https://github.com/a-ws-m/unlockNN)
+* **Docs:** [https://unlocknn.readthedocs.io/en/latest/](https://unlocknn.readthedocs.io/en/latest/)
 
 ```bash
 pip install unlocknn
