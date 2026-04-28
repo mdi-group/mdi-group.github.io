@@ -2,14 +2,39 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+html, body {
+  font-family: var(--global-font-family);
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: var(--global-font-family);
+  line-height: 1.7;
+}
+
 // Typography
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+h1, h2, h3, h4, h5, h6,
+.navbar .navbar-brand,
+.navbar .nav-link {
+  font-family: var(--global-font-family);
+  letter-spacing: 0.01em;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
+}
+
+::selection {
+  color: var(--global-bg-color);
+  background: var(--global-theme-color);
 }
 
 table {
@@ -37,7 +62,7 @@ figure, img {
 }
 
 blockquote {
-  background: var(--global-bg-color);
+  background: var(--global-card-bg-color);
   border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
@@ -64,6 +89,7 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
 
   img {
     width: 100%;
@@ -140,7 +166,7 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  opacity: 0.97;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -606,6 +632,7 @@ pre {
   background-color: var(--global-code-bg-color);
   border-radius: 6px;
   padding: 6px 12px;
+  font-family: var(--global-code-font-family);
   pre, code {
     background-color: transparent;
     border-radius: 0;
@@ -618,6 +645,7 @@ code {
   background-color: var(--global-code-bg-color);
   border-radius: 3px;
   padding: 3px 3px;
+  font-family: var(--global-code-font-family);
 }
 
 
