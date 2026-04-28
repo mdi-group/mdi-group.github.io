@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Teaching resources produced or contributed to by the group
-nav: true
+nav: false
 nav_order: 2
 ---
 
@@ -29,4 +29,3 @@ models to explore relationships between variables, to building some modern neura
  and sequences.
 
 **Ebook:** [https://keeeto.github.io/ebook-data-analysis/intro](https://keeeto.github.io/ebook-data-analysis/intro) 
-

@@ -3,7 +3,7 @@ layout: page
 title: events
 permalink: /symposia/
 description: events that we organise
-nav: true
+nav: false
 nav_order: 6
 ---
 
