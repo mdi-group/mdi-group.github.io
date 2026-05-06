@@ -150,11 +150,16 @@ blockquote {
   margin-bottom: 0;
 }
 
+.news-scroll .table th,
+.news-scroll .table td,
+.news-scroll .table a,
+.news-scroll .table a.news-title,
+.news-scroll .table p,
 .news-scroll th,
 .news-scroll td,
 .news-scroll .news-title,
 .news-scroll p {
-  color: inherit;
+  color: var(--global-text-color) !important;
 }
 
 .news-scroll td {
@@ -162,7 +167,7 @@ blockquote {
 }
 
 .news-scroll .news-title:hover {
-  color: inherit;
+  color: var(--global-text-color) !important;
 }
 .profile.float-right{
   margin-left: 1rem;
