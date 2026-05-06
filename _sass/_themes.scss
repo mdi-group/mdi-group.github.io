@@ -9,6 +9,9 @@
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$blue-color};
   --global-hover-color: #{$orange-color};
+  --global-news-bg-color: #076678;
+  --global-address-color: #cc241d;
+  --global-news-text-color: #fbf1c7;
   --global-footer-bg-color: #504945;
   --global-footer-text-color: #ebdbb2;
   --global-footer-link-color: #fbf1c7;
@@ -42,6 +45,9 @@ html[data-theme='dark'] {
   --global-text-color-light: #a89984;
   --global-theme-color: #8ec07c;
   --global-hover-color: #fabd2f;
+  --global-news-bg-color: #83a598;
+  --global-address-color: #cc241d;
+  --global-news-text-color: #1d2021;
   --global-footer-bg-color: #1d2021;
   --global-footer-text-color: #d5c4a1;
   --global-footer-link-color: #ebdbb2;

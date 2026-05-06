@@ -6,6 +6,10 @@ description: Group members
 nav: true
 ---
 
+<div class="page-banner">
+  <img src="{{ '/assets/img/british-library.png' | relative_url }}" alt="British Library banner image">
+</div>
+
 # Keith Butler
 
 Keith is Associate Professor in Computational Materials Chemistry. Previously he worked as a staff

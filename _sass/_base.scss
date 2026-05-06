@@ -125,11 +125,44 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    color: var(--global-address-color);
     p {
       display: inline-block;
       margin: 0;
+      color: inherit;
     }
   }
+}
+
+.news-scroll {
+  background-color: var(--global-news-bg-color);
+  color: var(--global-news-text-color);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.75rem;
+}
+
+.news-scroll[data-scrollable="true"] {
+  max-height: clamp(14rem, 30vw, 24rem);
+  overflow-y: auto;
+}
+
+.news-scroll .table {
+  margin-bottom: 0;
+}
+
+.news-scroll th,
+.news-scroll td,
+.news-scroll .news-title,
+.news-scroll p {
+  color: inherit;
+}
+
+.news-scroll td {
+  white-space: normal;
+}
+
+.news-scroll .news-title:hover {
+  color: inherit;
 }
 .profile.float-right{
   margin-left: 1rem;
